@@ -2,6 +2,19 @@
 <a href ="https://github.com/splash0047/"><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
 </p>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Pinak Chimurkar</h1>
+ <h3 align="center">Technology Enthusiast</h3>
+ <p align="center">
+<a href="https://github.com/splash0047"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Web-Developer%20;and;%20Mobile%20App%20developer;Self-taught-Programmer;Node%20Js%20Developer;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
+</p>
+ 
+ <br/>
+ 
+   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+
+<br/>
+
 
 
 
