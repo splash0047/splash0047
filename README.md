@@ -19,7 +19,11 @@
 
 
 # 💫 About Me:
-I'm Currently Studying as a IT Engineering Student at DYPCOE<br>
+- 🎓 Pursuing Bachelor's Degree in Information Technology DYPCOE,
+- 🌱 I’m currently learning **Web 3.0 & Metaverse Technologies with Agentic AI**
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📫 How to reach me **pinakchimurkar@gmail.com**
+- ⚡ Fun fact **I love coding and I'm a quick learner.**
 
 
 ## 🌐 Socials:
