@@ -1,16 +1,38 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/splash0047/">
+    <img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding animation" width="350" height="250" />
+  </a>
+</p>
 
-# Hi, I'm Pinak Chimurkar
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" alt="wave" />, I'm Pinak Chimurkar
+</h1>
 
-### Backend & AI Engineer · Final-Year Information Technology Student
+<h3 align="center">Backend & AI Engineer · Final-Year Information Technology Student</h3>
 
+<p align="center">
+  <a href="https://github.com/splash0047">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+FastAPI+%26+Node.js;AI%2FML+Engineer+%7C+RAG+%26+Agentic+AI;Python+%7C+JavaScript+%7C+TypeScript;Cloud+%7C+Docker+%7C+AWS+%7C+Azure;Building+reliable+systems+and+developer+tools" alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
 I build backend systems, AI-powered applications, developer tools, and practical ML systems with a strong focus on APIs, reliability, evaluation, and real-world engineering.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://pinakportfolio2.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinak-chimurkar-5414a4279/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinakchimurkar@gmail.com)
+<p align="center">
+  <a href="https://pinakportfolio2.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pinak-chimurkar-5414a4279/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pinakchimurkar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/splash0047/splash0047/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/splash0047/splash0047/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/splash0047/splash0047/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
@@ -115,14 +137,16 @@ I build backend systems, AI-powered applications, developer tools, and practical
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=splash0047&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" alt="Pinak's GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=splash0047&hide_border=true" alt="Pinak's GitHub streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=splash0047&theme=github_dark&animation=load" alt="Pinak Chimurkar GitHub profile activity" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=splash0047&layout=compact&hide_border=true&langs_count=8" alt="Most used languages in public repositories" />
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=splash0047&theme=github_dark&animation=load" alt="Pinak Chimurkar GitHub statistics" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=splash0047&theme=github_dark&animation=load" alt="Languages across Pinak's public repositories" />
 
 </div>
 
-> GitHub language cards reflect repository file composition, not overall proficiency.
+> Activity cards are generated from public GitHub data. Language distribution reflects repository contents and should not be read as a proficiency ranking.
 
 ---
 
